@@ -1,0 +1,36 @@
+title:Ergo Sum
+description:This is a DIM wishlist for Ergo Sum exotic sword rolls
+
+// Ergo Sum (item 1681583613)
+
+// Perks:
+// - Arc Conductor (Arc) (perk 3949068808)
+// - Perfect Fifth (Solar) (perk 1522566605)
+// - Sacred Flame (Solar) (perk 3034060702)
+// - Stormbringer (Arc) (perk 461437088)
+// - Unplanned Reprieve (Void) (perk 1327961177)
+// - Wolfpack Rounds (perk 1959135343)
+
+// Frames:
+// - Aggressive (perk 1726251414)
+// - Caster (perk 519046634)
+// - Lightweight (perk 2753228730)
+// - Vortex (perk 2557881346)
+// - Wave (perk 289811733)
+
+// Actual Wishlist Rolls:
+
+// Arc Conductor + Wave
+dimwishlist:item=1681583613&perks=3949068808,289811733#notes:zaP
+
+// Arc Conductor + Aggressive
+dimwishlist:item=1681583613&perks=3949068808,1726251414#notes:zaP
+
+// Sacred Flame + Caster
+dimwishlist:item=1681583613&perks=3034060702,1726251414#notes:zaP
+
+// Perfect Fifth + Caster
+dimwishlist:item=1681583613&perks=1522566605,519046634#notes:zaP
+
+// Perfect Fifth + Vortex
+dimwishlist:item=1681583613&perks=1522566605,2557881346#notes:zaP
