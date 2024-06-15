@@ -1,5 +1,5 @@
-title:Ergo Sum
-description:This is a DIM wishlist for Ergo Sum exotic sword rolls
+title:zaP´s Ergo Sum
+description:Wishlist for Ergo Sum exotic sword rolls (wip)
 
 // Ergo Sum (item 1681583613)
 
